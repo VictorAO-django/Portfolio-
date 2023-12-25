@@ -24,6 +24,11 @@ a{
     text-decoration: none;
 }
 
+img[id='article']{
+    max-width: 70%;
+    margin-top: 20px;
+}
+
 @media(min-width:1200px){
     section[id='topper']{
         display: flex;
