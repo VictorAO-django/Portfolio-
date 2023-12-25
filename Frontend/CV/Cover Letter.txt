@@ -1,0 +1,11 @@
+Dear Hiring Manager,
+    I am writing to express my interest in the [position] at [company]. As a dedicated backend developer 
+with a passion for creating efficient and scalable solutions, I am excited about the opportunity to contribute 
+my skills and experience to your team.
+    In my previous roles, I have successfully [mention a key accomplishment or responsibility], showcasing
+my ability to [highlight a relevant skill]. My experience with [technologies, frameworks] has equipped me
+to tackle challenges and deliver high-quality results in a fast-paced environment.
+    I am eager to bring my technical expertise, collaborative sprint, and problem-solving mindset to contribute
+to the continued success of your team.
+    Thank you for considering my application. I look forward to the opportunity to discuss how my skills align
+with the need of your team.    
