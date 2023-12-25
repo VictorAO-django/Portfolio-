@@ -1053,12 +1053,13 @@
         justify-content: space-around;
         align-items: center;
         width: 95%;
+        margin-right: auto;
+        margin-left: auto;
         padding-left: 0px;
-        margin-top: -5px;
     }
     
     div[id='topNav']>ul>li{
-        margin-top: 5px;
+        margin: 5px 5px 5px 0px;
     }
     
     
