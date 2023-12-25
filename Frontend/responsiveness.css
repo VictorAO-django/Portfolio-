@@ -1052,12 +1052,13 @@
         flex-flow: row wrap;
         justify-content: space-around;
         align-items: center;
-        width: 100%;
+        width: 95%;
         padding-left: 0px;
+        margin-top: -5px;
     }
     
     div[id='topNav']>ul>li{
-        
+        margin-top: 5px;
     }
     
     
