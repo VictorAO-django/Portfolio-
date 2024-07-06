@@ -86,6 +86,13 @@ pageContent['blog'] += "<a id='link' href='https://victorolusola.hashnode.dev/im
 pageContent['blog'] += "<br>Do ensure you subscribe to my newsletter."
 pageContent['blog'] += "</li> </ul>"
 pageContent['blog'] += "</li>"
+pageContent['blog'] += "<li>"
+pageContent['blog'] += "4. Django: Crafting a Super Admin Service for a Microservice System"
+pageContent['blog'] += "<ul id='subList'>"
+pageContent['blog'] += "<img src='images/Article4.jpg' id='article'>"
+pageContent['blog'] += "<li>This blog teaches how to efficiently design a super admin service for a microservice architecture, from integration pub/sub to deployment. Designing admin role and permission and ensuring admin authentication and authorization across all services. <br><a id='link' href='https://victorolusola.hashnode.dev/django-guide-crafting-a-super-admin-service-for-e-commerce-microservice-systems' target='blank'>Read the full guide here.</a><br> Do ensure you subscribe to my newsletter. </li>"
+pageContent['blog'] += "</ul>"
+pageContent['blog'] += "</li>"
 pageContent['blog'] += "</ul>"
 pageContent['blog'] += "</div>"
 
