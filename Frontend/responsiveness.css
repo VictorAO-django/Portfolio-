@@ -932,6 +932,7 @@
         text-transform: uppercase;
         font-family: MontserratMedium;
         background-color: #746fffd8;
+        display: block;
     }
     
     #content{
